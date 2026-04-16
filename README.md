@@ -1,4 +1,14 @@
-# Vorta Backup Client <img alt="Logo" src="https://files.qmax.us/vorta/vorta-512px.png" align="right" height="50">
+# 🛡️ Vorta (Backup Client) - Contribution
+*Improving the desktop backup client for BorgBackup.*
+
+## 🚀 Overview
+Vorta is a powerful GUI for BorgBackup. My involvement in this project demonstrates my ability to work with large-scale Python desktop applications and security-focused software.
+
+## ✨ Key Contributions
+* *Bug Fixes:* Identified and resolved issues related to Python syntax and runtime errors.
+* *Issue Tracking:* Collaborated with the core team to report and fix bugs in the backend.
+* *Tech Stack:* Python, Qt, BorgBackup.
+* # Vorta Backup Client <img alt="Logo" src="https://files.qmax.us/vorta/vorta-512px.png" align="right" height="50">
 
 [![GitHub all releases](https://img.shields.io/github/downloads/borgbase/vorta/total?label=downloads&logo=github&color=green)](https://github.com/borgbase/vorta/releases)
 [![Flathub](https://img.shields.io/flathub/downloads/com.borgbase.Vorta?logo=flathub&logoColor=white&color=green)](https://flathub.org/apps/details/com.borgbase.Vorta)
